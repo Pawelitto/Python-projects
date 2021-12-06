@@ -5,4 +5,5 @@ Gra w wisielca BY Pietras
 2. Utworzenie dnia: 06.12.2021
 3. Gra korzysta z bibliotek 'Random' oraz 'os'
 4. W samej grze są jóż przygotowane kategorie jak i hasła ponadto można je edytować
-5. Baw się dobrze!
+5. Wszystkie hasła i kategorie są w języku angielskim
+6. Baw się dobrze!
